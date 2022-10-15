@@ -1,7 +1,8 @@
 # I'm Sterling Long
-I love to build cool things and serve others.  
-My goal is to teach and uplift.  
-If I can do that, I'm happy.  
+I believe in consistently writing maintable, reusable code.  
+I believe that games are the best way to teach new skills.  
+I believe that in serving others, I can find myself.  
+I'm a freelance software developer.  
 
 # A One Man Army
 I focus on Web3.  
