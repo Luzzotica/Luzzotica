@@ -1,4 +1,4 @@
-# Sterling Long
+# I'm Sterling Long
 I love to build cool things and serve others.  
 My goal is to teach and uplift.  
 If I can do that, I'm happy.  
