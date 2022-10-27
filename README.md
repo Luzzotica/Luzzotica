@@ -4,7 +4,7 @@ I believe that games are the best way to teach new skills.
 I believe that in serving others, I can find myself.  
 I'm a freelance software developer.  
 
-# A One Man Army
+# Your One Man Army
 I focus on Web3.  
 I can write your smart contracts. I can build your website.  
 I'll break down your project into tiny, bitesize pieces that make it easy for you to understand, and fast for me to build.  
